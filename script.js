@@ -21,5 +21,7 @@ let complexArray = [
     }
   ]
 ];
+let yourArray=['one', 2, 'three', true, false];
+	console.log(yourArray);
 
 console.log(complexArray);
